@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Roboto:wght@100;300;400;500&family=Ubuntu+Mono&display=swap');
+
+*{
+   box-sizing: border-box;
+
+ }
+ .App{
+  margin: auto;
+  text-align: center;
+ }
+
+ body{
+   margin: 0;
+   background-color: #efefef;
+   font-family: 'Fredoka One', cursive;
+ }
+ 
